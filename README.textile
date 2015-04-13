@@ -1,0 +1,1 @@
+Gets the scheduled jump times for all Australian TAB races for the day
